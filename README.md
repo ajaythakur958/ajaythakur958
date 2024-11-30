@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [inventory_app](https://github.com/AjeyThakur/Javascript-projects/tree/main/inventory_app)
 
-- 🌱 I’m currently learning **Node.js (full stack)**
+- 🌱 I’m currently learning **Data Analyst**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **2ajaythakre@gmail.com**
 
