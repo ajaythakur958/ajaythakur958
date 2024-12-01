@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeythakur&label=Profile%20views&color=0e75b6&style=flat" alt="ajeythakur" /> </p>
 
-- 🔭 I’m currently working on [inventory_app](https://github.com/AjeyThakur/Javascript-projects/tree/main/inventory_app)
-
 - 🌱 I’m currently learning **Data Analyst**
 
 - 💬 Ask me about **Data**
