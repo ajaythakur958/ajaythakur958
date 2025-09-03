@@ -85,8 +85,6 @@
   </a>
 </div>
 
----
-
 ## 💭 Quote of the Day
 
 <div align="center">
