@@ -11,8 +11,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Data Analytics GIF" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-
 🎯 **Aspiring Data Analyst** passionate about transforming raw data into actionable insights
 
 🔍 **What drives me:** Solving real-world problems through data-driven decision making
